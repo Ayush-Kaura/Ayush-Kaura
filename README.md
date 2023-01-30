@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush Kaura</h1>
 <h3 align="center">Undergraduate Student majoring in Computer Engineering at VJTI,Mumbai</h3>
 
-- 📝 I regularly write articles on [ayush-kaura.github.io](ayush-kaura.github.io)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
+- 🔭 I’m currently learning SLAM
+- 📝 Portfolio Website [https://ayush-kaura.github.io/](ayush-kaura.github.io)
+- I have have in Robotics, Control Systems and Embedded Systems and Computer Sci. :)
