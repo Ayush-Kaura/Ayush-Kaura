@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Kaura</h1>
-<h3 align="center">Undergraduate Student majoring in Computer Engineering at VJTI,Mumbai</h3>
 
-- 🔭 I’m currently learning SLAM
+- Undergraduate Student majoring in Computer Engineering from VJTI, Mumbai
 - 📝 Portfolio Website [ayush-kaura.github.io](https://ayush-kaura.github.io/)
-- I have have in Robotics, Control Systems and Embedded Systems and Computer Sci. :)
+- I have interest in Robotics, Embedded Systems and Computer Sci.
